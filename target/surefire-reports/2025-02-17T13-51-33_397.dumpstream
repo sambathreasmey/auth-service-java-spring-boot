@@ -1,0 +1,5 @@
+# Created at 2025-02-17T13:51:33.524
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Document\Docker\Java\auth-service-jwt\user-auth-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
